@@ -29,4 +29,5 @@
 | Tailwind CSS          |                                 Css Library                                 |                        https://tailwindcss.com/ |
 | Mock service worker   |                 Intercepting requests on the network level                  |                        https://mswjs.io/ |
 | whatwg-fetch          |                          Native fetch API polyfill                          |                        https://github.com/github/fetch |
+| Figma          |                         For basic UI inspiration / design                          |                        https://www.figma.com/proto/gj7NpEefzlbmIA3lskrrI7/Typing-challenge?node-id=179%3A4&scaling=scale-down&page-id=0%3A1 |
 
