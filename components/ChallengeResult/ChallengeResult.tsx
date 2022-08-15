@@ -70,7 +70,7 @@ const DisplayChallengeResult: FC<DisplayChallengeResultProps> = (props) => {
       <div>
         <h5 className="font-bold text-[22px]">SPEED</h5>
         <h3 className="font-bold text-[28px]">
-          {typingSpeed === NaN ? "" : typingSpeed} WPM
+          {!typingSpeed ? 0 : typingSpeed} WPM
         </h3>
       </div>
     </div>
