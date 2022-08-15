@@ -26,4 +26,6 @@ const UserChallengeInputSolution: FC<UserChallengeInputSolutionProps> = memo(
   }
 );
 
+UserChallengeInputSolution.displayName = "UserChallengeInputSolution";
+
 export default UserChallengeInputSolution;

@@ -30,4 +30,6 @@ const TimerCard: FC<TimerCardProps> = memo((props) => {
   );
 });
 
+TimerCard.displayName = "TimerCard";
+
 export default TimerCard;
