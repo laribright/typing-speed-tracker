@@ -63,8 +63,8 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Talent Up Africa Frontend Developer Test</title>
-        <meta name="description" content="Alaribe Bright Test Solution" />
+        <title>Typing Speed Game</title>
+        <meta name="description" content="Typing speed game" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
